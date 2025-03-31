@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+*.ipynb
+*.html
+*.csv
+*.json
